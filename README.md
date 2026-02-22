@@ -1,5 +1,14 @@
 # 💫 About Me:
-I’m currently working on MERN stack<br>I’m currently learning new things
+Hello there !!
+
+I'm Pritam Suthar, a full stack developer, I'm recently graduated with a Bachelor's degree in Information and Communication Technology (ICT) from SAL Institute of Technology and Engineering Research - GTU in Ahmedabad.
+
+I’m a passionate Full Stack Developer with hands-on experience building scalable, responsive web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy crafting clean, efficient code and delivering seamless user experiences from frontend to backend.
+
+🚀 Passions: 
+      Building full-stack apps, improving performance, clean code, continuous learning
+
+Let’s connect and build something great together!
 
 
 ## 🌐 Socials:
